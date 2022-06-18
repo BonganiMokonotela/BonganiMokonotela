@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bongani Mokonotela
+# 👋🏾 Hi, I’m Bongani Mokonotela
 - 👨🏾‍🎓 A software engineer from Central University of Technology.
 - 👀 Interested in Web Development (front end and back end), Augmented Reality, Machine learning and Cloud Computing.
 - 🌱 I'm currently improving my html, css and javascript. I'm also looking forward to learning Reactjs.
