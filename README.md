@@ -3,8 +3,8 @@
 - 👀 Interested in Web Development (front end and back end), Augmented Reality, Machine learning and Cloud Computing.
 - 🌱 I'm currently improving my html, css and javascript. I'm also looking forward to learning Reactjs.
 - 😃 When not busy with code, I play video games and listen to music.
-# 🖥 Tech Stack
--html , css, a lil bit of vanilla javascript and a bit of C#
+# 🖥 Technologies
+-html5 , css3, a lil bit of mordern vanilla javascript and a bit of C# Asp.net MVC
 
 
 <!---
